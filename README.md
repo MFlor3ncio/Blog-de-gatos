@@ -1,7 +1,7 @@
 <h1 align="center"> Blog de gatos</h1>
 
 <p align="center">
-Desenvolvido por Ivan Barbosa.<br>
+Desenvolvido por Matheus Florencio.<br>
 Layout UI/UX RocketSeat.
 </p>
 
